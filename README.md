@@ -1,7 +1,7 @@
 # Rapyuta-Robotics
 
 The problem statement, has a very small cubic size, hence i did not alter the default size. In order to have a good visual,
-please consider zooming-in in the Webpage.
+please consider zooming-in on the Webpage.
 
 
 
